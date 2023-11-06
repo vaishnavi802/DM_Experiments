@@ -1,0 +1,11 @@
+item 1 with tid,item 2 with tid,Correlation coefficient,Type of correlation
+1,2,0.083333,Positive correlation,
+1,3,0.125000,Positive correlation,
+1,4,0.150000,Positive correlation,
+1,5,0.125000,Positive correlation,
+2,3,0.083333,Positive correlation,
+2,4,0.200000,Positive correlation,
+2,5,0.333333,Positive correlation,
+3,4,0.100000,Positive correlation,
+3,5,0.125000,Positive correlation,
+4,5,0.200000,Positive correlation,
