@@ -59,7 +59,6 @@ int main()
             continue;
         }
         stringstream str(line);
-
         getline(str, mark, ',');
         int x = stoi(mark);
         arr.push_back(x);

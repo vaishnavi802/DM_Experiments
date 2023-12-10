@@ -1,9 +1,10 @@
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <string>
-#include <sstream>
-#include <algorithm> 
+// #include <iostream>
+// #include <fstream>
+// #include <vector>
+// #include <string>
+// #include <sstream>
+// #include <algorithm> 
+#include<bits/stdc++.h>
 
 using namespace std;
 
